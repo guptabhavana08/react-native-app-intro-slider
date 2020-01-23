@@ -29,7 +29,7 @@ export default class AppIntroSlider extends React.Component {
     },
     skipLabel: 'Skip',
     doneLabel: 'Done',
-    nextLabel: 'Get Started',
+    nextLabel: 'Next',
     prevLabel: 'Back',
     buttonStyle: null,
     buttonTextStyle: null,
